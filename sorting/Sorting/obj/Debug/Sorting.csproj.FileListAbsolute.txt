@@ -1,0 +1,48 @@
+C:\Users\Егор\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Егор\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\Егор\source\repos\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Егор\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\Егор\source\repos\Sorting\Sorting\obj\Debug\Sorting.Form1.resources
+C:\Users\Егор\source\repos\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Егор\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\Егор\source\repos\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.Form1.resources
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.Form2.resources
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.exe
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.pdb
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\bin\Debug\Sorting.exe
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\bin\Debug\Sorting.pdb
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.vstavka.resources
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.bubble.resources
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.Vibor.resources
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.Shell.resources
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\bin\Debug\MetroFramework.dll
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ushak\OneDrive\Рабочий стол\проект3\Sorting\obj\Debug\Sorting.csproj.CopyComplete
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\bin\Debug\Sorting.exe
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\bin\Debug\Sorting.pdb
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\bin\Debug\MetroFramework.dll
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.Bubble.resources
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.Form1.resources
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.Form2.resources
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.Shell.resources
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.Vibor.resources
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.Vstavka.resources
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.csproj.CopyComplete
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.exe
+C:\Users\ushak\OneDrive\Рабочий стол\ааааа\Sorting\obj\Debug\Sorting.pdb
